@@ -15,6 +15,7 @@ const config: Config = {
       },
     },
   },
+<<<<<<< HEAD
   plugins: [
     require('daisyui'),
   ],
@@ -22,5 +23,8 @@ const config: Config = {
     themes: ["black"],
   },
 
+=======
+  plugins: [],
+>>>>>>> origin/main
 };
 export default config;

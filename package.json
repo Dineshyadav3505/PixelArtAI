@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "pixel-art-ai",
+=======
+  "name": "pixel-arta-i",
+>>>>>>> origin/main
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +13,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@clerk/nextjs": "^5.3.1",
     "next": "14.2.5",
     "react": "^18",
@@ -24,5 +29,20 @@
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
+=======
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.5"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+>>>>>>> origin/main
   }
 }
